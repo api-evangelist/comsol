@@ -1,0 +1,74 @@
+aid: comsol
+url: https://raw.githubusercontent.com/api-evangelist/comsol/refs/heads/main/apis.yml
+name: COMSOL
+kind: company
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Simulation
+  - Multiphysics
+  - Engineering
+  - CAE
+  - CAD
+  - Modeling
+  - Desktop Software
+  - Scripting
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.19'
+description: >-
+  COMSOL is a Swedish-American engineering software company best known for COMSOL Multiphysics,
+  a desktop platform for physics-based simulation. The platform exposes a unified COMSOL API
+  that powers the GUI, the Application Builder (Java-based Method Editor), LiveLink for MATLAB,
+  LiveLink for Excel, and the LiveLink family of CAD/CAE interfacing products
+  (SOLIDWORKS, Inventor, AutoCAD, Revit, Solid Edge, CATIA V5, MATLAB, Simulink, Excel). COMSOL
+  is primarily licensed desktop software with web deployment via COMSOL Server and standalone
+  applications via COMSOL Compiler. There is no public web REST API and no public GitHub SDK
+  organization; programmatic surfaces are the Java API, the MATLAB LiveLink interface, and the
+  module-specific LiveLink integrations bundled with the licensed product.
+apis: []
+common:
+  - type: Website
+    url: https://www.comsol.com
+  - type: Products
+    url: https://www.comsol.com/products
+  - type: Documentation
+    url: https://doc.comsol.com
+  - type: LearningCenter
+    url: https://www.comsol.com/support/learning-center
+  - type: APIOverview
+    url: https://www.comsol.com/support/learning-center/article/overview-of-the-comsol-api-107912
+  - type: ApplicationBuilder
+    url: https://www.comsol.com/application-builder
+  - type: LiveLinkMATLAB
+    url: https://www.comsol.com/livelink-for-matlab
+  - type: LiveLinkExcel
+    url: https://www.comsol.com/livelink-for-excel
+  - type: LiveLinkSOLIDWORKS
+    url: https://www.comsol.com/livelink-for-solidworks
+  - type: LiveLinkInventor
+    url: https://www.comsol.com/livelink-for-inventor
+  - type: LiveLinkAutoCAD
+    url: https://www.comsol.com/livelink-for-autocad
+  - type: LiveLinkRevit
+    url: https://www.comsol.com/livelink-for-revit
+  - type: LiveLinkSolidEdge
+    url: https://www.comsol.com/livelink-for-solid-edge
+  - type: COMSOLServer
+    url: https://www.comsol.com/comsol-server
+  - type: COMSOLCompiler
+    url: https://www.comsol.com/comsol-compiler
+  - type: Pricing
+    url: https://www.comsol.com/contact
+  - type: Support
+    url: https://www.comsol.com/support
+  - type: Blog
+    url: https://www.comsol.com/blogs
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/comsol
+  - type: YouTube
+    url: https://www.youtube.com/user/COMSOLMultiphysics
+  - type: GitHub
+    url: https://github.com/COMSOL
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
