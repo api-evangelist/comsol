@@ -27,6 +27,8 @@ description: >-
   module-specific LiveLink integrations bundled with the licensed product.
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/comsol-domain-security.yml
   - type: Website
     url: https://www.comsol.com
   - type: Products
