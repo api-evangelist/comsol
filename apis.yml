@@ -25,7 +25,7 @@ tags:
   - Scripting
 created: '2026-05-23'
 modified: '2026-05-23'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 description: >-
   COMSOL is a Swedish-American engineering software company best known for COMSOL Multiphysics,
   a desktop platform for physics-based simulation. The platform exposes a unified COMSOL API
